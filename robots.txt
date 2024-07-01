@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://giliteings.github.io/sitemap
+Sitemap: https://giliteings.github.io/app/sitemap
+Sitemap: https://giliteings.github.io/assets/sitemap
+Sitemap: https://giliteings.github.io/css/sitemap
+Sitemap: https://giliteings.github.io/includes/sitemap
+Sitemap: https://giliteings.github.io/item/sitemap
+Sitemap: https://giliteings.github.io/src/sitemap
